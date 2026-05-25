@@ -25,4 +25,4 @@ SQL · BigQuery · Google Sheets
 
 ## Результат
 
-![Cohort Table](cohort_table.png)
+![Cohort Table](cohort_tables.png)
